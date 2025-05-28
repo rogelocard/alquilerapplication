@@ -136,3 +136,6 @@ Puedes consumirlos desde herramientas como Postman o Insomnia.
 🧩 Todos los endpoints están organizados según su dominio: clientes, empleados, prendas, alquileres y lavandería.
 
 ¡Gracias por visitar el proyecto AlquilerApp! ✨
+
+---
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/rogelocard/alquilerapplication)
